@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21749e76-4873-4cde-a3ab-119690f31255" name="Changes" comment="Initial commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2sbS24HL329Q3WGeYjA2Ui66702" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Atharv/IdeaProjects/SeleniumAutomationProject/src/test/java/com/ui/pages&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ui.pages" />
+      <recent name="com.POJO" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Atharv\IdeaProjects\SeleniumAutomationProject\src\test\java\com\ui\pages" />
+      <recent name="C:\Users\Atharv\IdeaProjects\SeleniumAutomationProject\src\test\java\com\ui\tests" />
+      <recent name="C:\Users\Atharv\IdeaProjects\SeleniumAutomationProject\src\test\java\com\ui\listeners" />
+      <recent name="C:\Users\Atharv\IdeaProjects\SeleniumAutomationProject\src\test\java\com\ui\utility" />
+      <recent name="C:\Users\Atharv\IdeaProjects\SeleniumAutomationProject\src\test\java\com\ui\constants" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Atharv\IdeaProjects\SeleniumAutomationProject\src\test\resources\test-suites" />
+      <recent name="C:\Users\Atharv\IdeaProjects\SeleniumAutomationProject\src\test\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ui.tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Atharv/IdeaProjects/SeleniumAutomationProject/src/test/resources/test-suites/testng.xml">
+    <configuration name="AddNewFirstAddressTest.addNewAddressTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ui.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ui.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.ui.tests.AddNewFirstAddressTest" />
+      <option name="METHOD_NAME" value="addNewAddressTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Atharv/IdeaProjects/SeleniumAutomationProject/src/test/resources/test-suites/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/test-suites/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTestForInvalidCredentials" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ui.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ui.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.ui.tests.LoginTestForInvalidCredentials" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.LoginExcelTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ui.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ui.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.ui.tests.LoginTest" />
+      <option name="METHOD_NAME" value="LoginExcelTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductCheckoutTest.checkoutTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ui.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ui.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.ui.tests.ProductCheckoutTest" />
+      <option name="METHOD_NAME" value="checkoutTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/Atharv/IdeaProjects/SeleniumAutomationProject/src/test/resources/test-suites/testng.xml" />
+      <item itemvalue="TestNG.AddNewFirstAddressTest.addNewAddressTest" />
+      <item itemvalue="TestNG.LoginTestForInvalidCredentials" />
+      <item itemvalue="TestNG.LoginTest.LoginExcelTest" />
+      <item itemvalue="TestNG.ProductCheckoutTest.checkoutTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Atharv/IdeaProjects/SeleniumAutomationProject/src/test/resources/test-suites/testng.xml" />
+        <item itemvalue="TestNG.LoginTest.LoginExcelTest" />
+        <item itemvalue="TestNG.ProductCheckoutTest.checkoutTest" />
+        <item itemvalue="TestNG.LoginTestForInvalidCredentials" />
+        <item itemvalue="TestNG.AddNewFirstAddressTest.addNewAddressTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21749e76-4873-4cde-a3ab-119690f31255" name="Changes" comment="" />
+      <created>1738722575168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738722575168</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>

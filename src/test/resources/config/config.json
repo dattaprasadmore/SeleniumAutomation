@@ -1,0 +1,36 @@
+{
+  "environments": {
+    "DEV": {
+      "url": "http://www.automationpractice.pl",
+      "LAMBDA_HUB_URL": "https://hub.lambdatest.com/wd/hub",
+      "GRID_HUB_URL": "http://172.17.0.1:4444/wd/hub",
+      "MAXIMUM_NUMBER_OF_ATTEMPTS" : 2,
+      "ELEMENT_IDENTIFICATION_TIMEOUT":30,
+      "ELEMENT_IDENTIFICATION_POLLING_DELAY":30
+    },
+    "QA": {
+      "url": "http://www.automationpractice.pl",
+      "LAMBDA_HUB_URL": "https://hub.lambdatest.com/wd/hub",
+      "GRID_HUB_URL": "http://172.17.0.1:4444/wd/hub",
+      "MAXIMUM_NUMBER_OF_ATTEMPTS" : 2,
+      "ELEMENT_IDENTIFICATION_TIMEOUT":30,
+      "ELEMENT_IDENTIFICATION_POLLING_DELAY":30
+    },
+    "FIT": {
+      "url": "http://www.automationpractice.pl",
+      "LAMBDA_HUB_URL": "https://hub.lambdatest.com/wd/hub",
+      "GRID_HUB_URL": "http://172.17.0.1:4444/wd/hub",
+      "MAXIMUM_NUMBER_OF_ATTEMPTS" : 2,
+      "ELEMENT_IDENTIFICATION_TIMEOUT":30,
+      "ELEMENT_IDENTIFICATION_POLLING_DELAY":30
+    },
+    "UAT": {
+      "url": "http://www.automationpractice.pl",
+      "LAMBDA_HUB_URL": "https://hub.lambdatest.com/wd/hub",
+      "GRID_HUB_URL": "http://172.17.0.1:4444/wd/hub",
+      "MAXIMUM_NUMBER_OF_ATTEMPTS" : 2,
+      "ELEMENT_IDENTIFICATION_TIMEOUT":30,
+      "ELEMENT_IDENTIFICATION_POLLING_DELAY":30
+    }
+  }
+}

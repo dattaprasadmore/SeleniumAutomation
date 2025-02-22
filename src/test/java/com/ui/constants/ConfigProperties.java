@@ -1,0 +1,11 @@
+package com.ui.constants;
+
+public enum ConfigProperties {
+    URL,
+    BROWSER,
+    OVERRIDEREPORTS,
+    PASSEDSTEPSSCREENSHOTS,
+    FAILEDSTEPSSCREENSHOTS,
+    SKIPPEDSTEPSSCREENSHOTS,
+    MAXIMUM_NUMBER_OF_ATTEMPTS
+}
