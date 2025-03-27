@@ -44,7 +44,7 @@ Before running this framework, ensure the following software is installed on you
 
 ## Technologies Used
 - **Java 17**
-- **TestiNG**
+- **TestNG**
 - **OpenCSV**
 - **Gson**
 - **Apache POI**
